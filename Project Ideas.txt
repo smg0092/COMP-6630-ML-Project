@@ -6,6 +6,13 @@ Project Ideas:
 		Chairs v Tables
 		Apples v Oranges 
 		Destroyed (signal corrupted) vs Normal Imagery
+
+
+		See if we can take image data and... 
+			- apply a genetic algorithm to our learning
+			- do some kind of math function on it 
+			- Image learn from the graph data itself? 
+			
 	
 	
 	NLP: 
