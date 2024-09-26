@@ -16,5 +16,5 @@ Project Ideas:
 	
 	
 	NLP: 
-
+		Identify what category a news article is given its title (I did this last year) (https://colab.research.google.com/drive/1tG1SxiFquIlcMQLXjNHxq2diPuFj9yFy#scrollTo=rxpy4ssxDMHO)
 		Testing commits fam 
