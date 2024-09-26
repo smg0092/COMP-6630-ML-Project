@@ -12,9 +12,13 @@ Project Ideas:
 			- apply a genetic algorithm to our learning
 			- do some kind of math function on it 
 			- Image learn from the graph data itself? 
-			
-	
+		
 	
 	NLP: 
 
-		Testing commits fam 
+
+	Regular Learning: 
+		
+		See if we can identify and classify health based on a dataset? 
+		See if we can estimate how much housing prices will grow based on previous trends 
+		Calculate how much FastFood chicken sandwhich prices will increase over time? 
