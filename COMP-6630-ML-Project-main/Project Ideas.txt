@@ -1,0 +1,13 @@
+Project Ideas: 
+
+
+	Image Processing: 
+		Dogs v Cats
+		Chairs v Tables
+		Apples v Oranges 
+		Destroyed (signal corrupted) vs Normal Imagery
+	
+	
+	NLP: 
+
+	
