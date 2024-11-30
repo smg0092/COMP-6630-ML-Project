@@ -11,10 +11,10 @@ https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/data
 **FullCode.ipynb** - This is the entire code we used, including our loaded data, the algorithms and models used, and the results.  
 We don't have many methods, so I'll explain each cell:  
 
----
+
 
 ### Imports for part 1  
-==========================================================================================
+---
 
 - Cell 1 - Our various imports that involve lots of packages from the scikit-learn Python library for machine learning.  
 - Cell 2 - Deprecated code.  
