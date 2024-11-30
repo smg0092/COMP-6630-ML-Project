@@ -6,7 +6,11 @@ Here’s the revised version of your document with `-` added before each occurre
 The ML Project for the Machine Learning course at Auburn University (COMP-6630)  
 
 Here is the link to the dataset we are using (from Kaggle):  
-https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/data  
+https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/data
+
+The data can also be found in the folder **Covid-19_Radiography_Dataset** in the zip file.
+
+**ML_Project_Final_Report.pdf** contains the NeurIPS formatted report for the project.
 
 **FinalProjectCode.ipynb** - This is the entire code we used, including our loaded data, the algorithms and models used, and the results.  
 We don't have many methods, so I'll explain each cell:  
