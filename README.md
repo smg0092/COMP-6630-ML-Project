@@ -9,9 +9,9 @@ We don't have many methods so I'll explain each cell:
 
 Imports for part 1
 ================================================================================================================
-Cell 1 - our various imports that involve lots of package from the scikit learn python library for machine 
-leraring 
-Cell 2 - depricated code 
+  Cell 1 - our various imports that involve lots of package from the scikit learn python library for machine 
+  leraring 
+  Cell 2 - depricated code 
 
 Data Preprocessing
 ================================================================================================================
