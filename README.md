@@ -3,7 +3,7 @@ Here’s the revised version of your document with `-` added before each occurre
 ---
 
 # COMP-6630-ML-Project  
-The ML Project for the Machine Learning course at Auburn University (COMP-6630)  
+The ML Project for the Machine Learning course at Auburn University (COMP-6630), completed by Jacob Pennington and Selom Gadzey.
 
 Here is the link to the dataset we are using (from Kaggle):  
 https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/data
